@@ -18,10 +18,3 @@ body {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
 }
-
-body, html {
-    width: 100%;
-    max-width: 1440px;
-    margin: 0 auto; /* Center the content */
-}
-  
